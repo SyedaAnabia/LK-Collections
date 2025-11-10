@@ -3,7 +3,7 @@ import { createClient } from 'next-sanity';
 
 
 const client =createClient({
-  projectId: "zkde40c9",
+  projectId: process.env.NEXT_PUBLIC_SANITY_PROJECT_ID,
   dataset: "production",
   useCdn: true,
 });
