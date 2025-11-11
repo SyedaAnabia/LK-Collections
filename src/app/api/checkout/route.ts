@@ -10,7 +10,8 @@ if (!stripeSecretKey) {
 
 // ✅ Initialize Stripe safely
 const stripe = new Stripe(stripeSecretKey, {
-  apiVersion: "2024-06-20", // keep latest Stripe API version
+  apiVersion: "2025-02-24.acacia",
+
 });
 
 export const POST = async (request: Request) => {
