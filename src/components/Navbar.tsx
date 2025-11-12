@@ -24,7 +24,7 @@ const Navbar = () => {
             className="w-auto h-auto ml-2 sm:ml-4 cursor-pointer"
           />
         </Link>
-        <h1 className="text-black font-bold text-lg sm:text-xl">La Khalaba</h1>
+        <h1 className="text-black font-bold text-lg sm:text-xl">La Khilaba</h1>
       </div>
 
       {/* Desktop Menu */}
