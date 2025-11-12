@@ -32,7 +32,7 @@ const Page = () => {
             Discover Our New Clothes Collection
           </h1>
           <p className="text-pink-800 mb-4 text-[10px] sm:text-sm md:text-base leading-relaxed">
-            La Khala Women's Collection brings timeless elegance and modern
+            La Khilaba Women's Collection brings timeless elegance and modern
             charm to every wardrobe. Stylish, comfortable, and made for
             confident women who love to stand out.
           </p>
@@ -47,7 +47,7 @@ const Page = () => {
       {/* BROWSE THE RANGE */}
       <section className="py-10 bg-pink-50 text-center">
         <h1 className="text-pink-700 text-xl sm:text-3xl font-bold">
-          Explore La Khalaba Collections
+          Explore La Khilaba Collections
         </h1>
         <p className="text-pink-500 mt-2 sm:mt-4 text-sm sm:text-base">
           Discover our exclusive boutique range of stylish clothes.
@@ -60,7 +60,7 @@ const Page = () => {
             >
               <Image
                 src={`/images/${img}`}
-                alt="La Khalaba collection"
+                alt="La Khilaba collection"
                 width={380}
                 height={480}
                 className="object-cover w-full h-auto hover:scale-105 transition-transform duration-300"
@@ -89,7 +89,7 @@ const Page = () => {
       <section className="bg-pink-50 mt-10 flex flex-col lg:flex-row items-center justify-around px-6 gap-10">
         <div className="text-center lg:text-left max-w-md">
           <h1 className="text-pink-700 text-2xl sm:text-3xl md:text-4xl font-bold">
-            Explore La Khalab Women’s Collection
+            Explore La Khilaba Women’s Collection
           </h1>
           <p className="text-pink-500 mt-4 text-sm sm:text-base">
             Discover our exclusive range of elegant and stylish dresses designed
@@ -124,7 +124,7 @@ const Page = () => {
           Share your favorite looks with
         </h1>
         <h1 className="text-pink-700 text-2xl sm:text-4xl font-bold mt-2">
-          #LaKhalabCollection
+          #LaKhilabaCollection
         </h1>
 
         <div className="flex flex-wrap justify-center gap-3 mt-8">
