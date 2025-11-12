@@ -42,7 +42,7 @@ const ContactPage: React.FC = () => {
             href="mailto:ayyanahmer@gmail.com"
             className="text-blue-600 hover:underline"
           >
-            ayyanahmer@gmail.com
+            lakhilaba12@gmail.com
           </a>
         </p>
 
